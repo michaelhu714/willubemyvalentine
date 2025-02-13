@@ -27,7 +27,6 @@ const messages = [
     "Really sure??",
     "I'm sorry I didn't ask you earlier",
     "Pookie please...",
-    "Just think about it!",
     "Forgive me this once",
     "But I laub you",
     "Ok fine, I will stop asking...",
